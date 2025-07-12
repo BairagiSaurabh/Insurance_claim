@@ -1,0 +1,21 @@
+# Data processing & ML
+pandas
+numpy
+scikit-learn
+
+# Model and tuning
+xgboost
+optuna
+
+# Preprocessing & Interpretability
+shap
+
+# Web application
+streamlit
+
+# Persistence
+pickle5
+
+# Optional but recommended
+matplotlib
+seaborn
