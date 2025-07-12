@@ -14,7 +14,7 @@ shap
 streamlit
 
 # Persistence
-pickle5
+pickle
 
 # Optional but recommended
 matplotlib
