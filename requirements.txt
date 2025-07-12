@@ -13,9 +13,6 @@ shap
 # Web application
 streamlit
 
-# Persistence
-pickle
-
 # Optional but recommended
 matplotlib
 seaborn
