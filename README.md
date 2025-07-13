@@ -15,3 +15,8 @@ smoker: smoking state of policyholder (non-smoke=0;smoker=1)
 region: the residential area of policyholder in the US (northeast=0, northwest=1, southeast=2, southwest=3)
 
 charges: individual medical costs billed by health insurance
+
+
+# Assumption
+
+In this dataset, insuranceclaim = 1 indicates that the individual not only submitted a claim, but it was also likely approved — since we see associated charges. For the purposes of this analysis, I’ve assumed insuranceclaim = 1 to represent a successful claim event.
